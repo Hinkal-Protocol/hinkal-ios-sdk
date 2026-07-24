@@ -7,7 +7,7 @@ Native Swift SDK for privacy-preserving transactions on iOS.
 In Xcode: File > Add Package Dependencies, then enter:
 
 ```
-https://github.com/delibaaa/hinkal-ios-sdk
+https://github.com/Hinkal-Protocol/hinkal-sdk
 ```
 
 ```swift
