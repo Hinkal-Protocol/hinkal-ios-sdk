@@ -10,8 +10,8 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "Hinkal",
-            url: "https://github.com/Hinkal-Protocol/hinkal-ios-sdk/releases/download/0.1.2/Hinkal.xcframework.zip",
-            checksum: "2f7c0b825a607e6dc1284da4d32cfd4218c5bc08afb451a2fa82381518856a99"
+            url: "https://github.com/Hinkal-Protocol/hinkal-ios-sdk/releases/download/0.1.3/Hinkal.xcframework.zip",
+            checksum: "3c0fbb73c2c0a81c43a3575e63a5fb6dd4705d620d2ea9dab459616145d6104a"
         )
     ]
 )
